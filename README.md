@@ -16,7 +16,8 @@ you can follow the steps:
 If you want to end the file running in the background, you can go to the Task Manager anger and d find the Python file running in 
 background processes and end that task by right-clicking this.
 
-Hope you find it helpful, if you facing any issues or have any queries, let me know.
-Thanks
+Hope you find it helpful, if you facing any issues or have any queries, let me know.<br>
+Thanks<br>
 Best Regards
+<br>
 Awais Nazir
